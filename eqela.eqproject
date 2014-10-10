@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SCENES
+#
+
+projectname: SCENES
+vendorid: com.mycompany
+mainmodule: com.mycompany.scenes
